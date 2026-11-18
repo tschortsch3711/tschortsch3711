@@ -1,4 +1,4 @@
-Designer, Maker und 3D-Drucker aus Freising bei München. Ich baue an Produkten und Lösungen und beschäftige mich mit lokalen LLMs, Agenten- und Workflow-Systemen, 3D-Druck und Webprojekten.
+Designer, Maker und 3D-Druck-Enthusiast aus Freising bei München. Ich arbeite an Produkten und Lösungen und beschäftige mich mit lokalen LLMs, Agenten- und Workflow-Systemen, 3D-Druck und Webprojekten.
 
 **[Portfolio](https://tschortsch3711.github.io/portfolio/)**
 
