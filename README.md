@@ -1,4 +1,6 @@
-Ich bin Nikola, Designer und Maker aus Freising bei München. Ich baue Webseiten, drucke Dinge in 3D und probiere aus, was mit lokalen LLMs und Agenten geht. Seit 2025 mache ich auch Musik als tschortsch.
+### Ideen, die nicht in der Schublade bleiben.
+
+Ich bin Nikola, Designer und Maker aus Freising bei München. KI nutze ich als Werkzeug, die Ideen sind meine. Hier ist, was daraus geworden ist, vom 3D-Druck bis zur Musik als tschortsch.
 
 **[Portfolio ansehen](https://tschortsch3711.github.io/portfolio/)**, jedes Projekt mit eigener Seite.
 
