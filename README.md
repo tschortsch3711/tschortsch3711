@@ -1,6 +1,6 @@
 ### Ideen, die nicht in der Schublade bleiben.
 
-Ich bin Nikola, Designer und Maker aus Freising bei München. KI nutze ich als Werkzeug, die Ideen sind meine. Hier ist, was daraus geworden ist, vom 3D-Druck bis zur Musik als tschortsch.
+Ich bin Nikola, IT-Consultant, Designer und Maker aus Freising bei München. KI nutze ich als Werkzeug, die Ideen sind meine. Hier ist, was daraus geworden ist, vom 3D-Druck bis zur Musik als tschortsch.
 
 **[Portfolio ansehen](https://tschortsch3711.github.io/portfolio/)**, jedes Projekt mit eigener Seite.
 
