@@ -12,6 +12,11 @@ Ich bin Nikola, Designer und Maker aus Freising bei München. Ich baue Webseiten
 - [Fleischbibel](https://fleischbibel.de) - Dokumentation der Fleischgemeinschaft ([Repo](https://github.com/tschortsch3711/fleischbibel))
 - [Shisha as a Service](https://tschortsch3711.github.io/shisha-as-a-service/) - Vergleichsseite für Shisha-Bars zwischen Freising und Regensburg ([Repo](https://github.com/tschortsch3711/shisha-as-a-service))
 
+### Betriebsrat
+- [BR-Simulator](https://tschortsch3711.github.io/br-simulator/) - Eine Woche Betriebsratsarbeit als Text-Simulation im Browser ([Repo](https://github.com/tschortsch3711/br-simulator))
+- [BR-Selbstcheck](https://tschortsch3711.github.io/br-oder-burnout/) - Selbstcheck für alle, die über eine Kandidatur zum Betriebsrat nachdenken ([Repo](https://github.com/tschortsch3711/br-oder-burnout))
+- [BR or not 2 BR?](https://tschortsch3711.github.io/BRorNot2BR/) - Entscheidungshilfe mit Augenzwinkern, ob man zur Betriebsratswahl geht ([Repo](https://github.com/tschortsch3711/BRorNot2BR))
+
 ### Musik
 - [This is tschortsch](https://open.spotify.com/artist/4StU5O0sjXiyuYFDU4IFiL) - Meine Songs auf Spotify, entstanden mit Suno ([Repo](https://github.com/tschortsch3711/this-is-tschortsch))
 - [Release-Pipeline](https://tschortsch3711.github.io/portfolio/projekte/release-pipeline/) - Wie die Songs mit Claude Code auf Spotify kommen
