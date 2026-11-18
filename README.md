@@ -22,4 +22,4 @@ Hier siehst du, was bisher daraus entstanden ist.
 ### Ehrenamt
 - [BR-Simulator](https://tschortsch3711.github.io/br-simulator/) - Eine Woche Betriebsratsarbeit als Text-Simulation im Browser ([Repo](https://github.com/tschortsch3711/br-simulator))
 - [BR-Selbstcheck](https://tschortsch3711.github.io/br-oder-burnout/) - Selbstcheck für alle, die über eine Kandidatur zum Betriebsrat nachdenken ([Repo](https://github.com/tschortsch3711/br-oder-burnout))
-- [BR or not 2 BR?](https://tschortsch3711.github.io/BRorNot2BR/) - Entscheidungshilfe mit Augenzwinkern, ob man zur Betriebsratswahl geht ([Repo](https://github.com/tschortsch3711/BRorNot2BR))
+- [BR or not 2 BR?](https://tschortsch3711.github.io/BRorNot2BR/) - Zwölf Fragen zur Entscheidung, ob man zur Betriebsratswahl geht ([Repo](https://github.com/tschortsch3711/BRorNot2BR))
