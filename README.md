@@ -1,6 +1,6 @@
 ### Ideen, die nicht in der Schublade bleiben.
 
-Mit agentischer KI als Werkzeug bringe ich Visionen und Konzepte über funktionale Prototypen bis in den laufenden Betrieb.
+Mit agentischer KI als Werkzeug bringe ich Visionen und Konzepte über funktionale Prototypen bis in den laufenden Betrieb.<br>
 Hier siehst du, was bisher daraus entstanden ist.
 
 **[Portfolio ansehen](https://tschortsch3711.github.io/portfolio/)**, jedes Projekt mit eigener Seite.
