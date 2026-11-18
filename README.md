@@ -1,6 +1,6 @@
 ### Ideen, die nicht in der Schublade bleiben.
 
-Ich bin Nikola, IT-Consultant, Designer und Maker aus Freising bei München. KI nutze ich als Werkzeug, um meine Ideen in die Praxis umzusetzen. Hier findest du, was bisher daraus geworden ist, vom 3D-Druck bis zur Musik als tschortsch.
+Mit agentischer KI als Werkzeug führe ich Visionen und Konzepte über funktionale Prototypen bis in den laufenden Betrieb. Hier siehst du, was bisher daraus entstanden ist.
 
 **[Portfolio ansehen](https://tschortsch3711.github.io/portfolio/)**, jedes Projekt mit eigener Seite.
 
