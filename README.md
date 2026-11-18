@@ -13,3 +13,6 @@ Designer, Maker und 3D-Druck-Enthusiast aus Freising bei München. Ich arbeite a
 
 ### Kleine Seiten
 - [Shisha as a Service](https://tschortsch3711.github.io/shisha-as-a-service/) - Vergleichsseite für Shisha-Bars zwischen Freising und Regensburg ([Repo](https://github.com/tschortsch3711/shisha-as-a-service))
+
+### Musik
+- [This is tschortsch](https://open.spotify.com/artist/4StU5O0sjXiyuYFDU4IFiL) - Meine Songs auf Spotify, entstanden mit Suno ([Repo](https://github.com/tschortsch3711/this-is-tschortsch))
