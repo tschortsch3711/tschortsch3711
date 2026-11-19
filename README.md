@@ -13,6 +13,7 @@ Hier siehst du, was bisher daraus entstanden ist.
 ### Open Source
 - [Von K.A. zu K.I.](https://tschortsch3711.github.io/von-ka-zu-ki/) - Verständliches KI-Glossar ([Repo](https://github.com/tschortsch3711/von-ka-zu-ki))
 - [Fleischbibel](https://fleischbibel.de) - Dokumentation der Fleischgemeinschaft ([Repo](https://github.com/tschortsch3711/fleischbibel))
+- [Bechtle-Merch](https://tschortsch3711.github.io/bechtle-3d-druck/) - Neun Modelle aus dem 3D-Drucker, nicht kommerziell, keine Verbindung zur Bechtle AG ([Repo](https://github.com/tschortsch3711/bechtle-3d-druck))
 - [Shisha as a Service](https://tschortsch3711.github.io/shisha-as-a-service/) - Vergleichsseite für Shisha-Bars zwischen Freising und Regensburg ([Repo](https://github.com/tschortsch3711/shisha-as-a-service))
 
 ### Kunst & Musik
