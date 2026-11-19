@@ -17,7 +17,7 @@ Hier siehst du, was bisher daraus entstanden ist.
 
 ### Kunst & Musik
 - [This is tschortsch](https://open.spotify.com/artist/4StU5O0sjXiyuYFDU4IFiL) - Meine Songs auf Spotify, entstanden mit Suno ([Repo](https://github.com/tschortsch3711/this-is-tschortsch))
-- [Release-Pipeline](https://tschortsch3711.github.io/portfolio/projekte/release-pipeline/) - Wie die Songs mit Claude Code auf Spotify kommen
+- [Release-Pipeline](https://tschortsch3711.github.io/portfolio/projekte/release-pipeline/) - Wie aus Erlebnissen Songs auf Spotify werden
 
 ### Ehrenamt
 - [BR-Simulator](https://tschortsch3711.github.io/br-simulator/) - Eine Woche Betriebsratsarbeit als Text-Simulation im Browser ([Repo](https://github.com/tschortsch3711/br-simulator))
